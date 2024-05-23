@@ -1,0 +1,30 @@
+.event-container {
+  height: 100vh;
+  display: flex;
+}
+
+.part-1 {
+  width: 65%;
+  background-color: #64748b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.event-list {
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.part-2 {
+  width: 35%;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-left: 30px;
+}

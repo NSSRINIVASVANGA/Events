@@ -1,0 +1,45 @@
+.bg-container-1 {
+  text-align: center;
+  padding: 10px;
+  color: #3a4b63;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.text {
+  text-align: center;
+  font-family: 'Roboto';
+  color: #475569;
+}
+
+h1 {
+  font-size: 18px;
+  color: #323f4b;
+}
+
+.img {
+  width: 50px;
+}
+
+.img-1 {
+  width: 150px;
+}
+
+.button {
+  background-color: #0967d2;
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding: 10px;
+  border-radius: 10px;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
